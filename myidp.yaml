@@ -23,7 +23,7 @@ spec:
         app: myidp
     spec:
       containers:
-      - image: dgm83/identityprovider:65
+      - image: awsricardo/pruebacicd:88
         imagePullPolicy: Always
         name: myidp
 
